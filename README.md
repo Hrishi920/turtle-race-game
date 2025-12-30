@@ -1,8 +1,8 @@
-# Turtle Race Game
+# 🐢 Turtle Race Game 🏁
 
-A simple Python turtle graphics game where the user bets on which turtle will win a race.
+A beginner-friendly Python game built using the `turtle` graphics module, where the user bets on which turtle will win a race.
 
-This project is built as a beginner - friendly exercise to understand loops, conditionals, user input, and basic game logic using python.
+This project was created to practice Python fundamentals such as loops, conditionals, lists, and basic game logic.
 
 ---
 
